@@ -35,7 +35,7 @@
                         "Gifted": "Geschenkt",
                         "Traded": "Getauscht",
                         "Escaped": "Geflohen",
-                        "Killed": "Getötet"
+                        "Killed": "Besiegt"
                     },
                     "SearchForARoute": "Suche nach einer Route",
                     "ResetAllRoutes": "Den Status für alle Routen zurücksetzen"
