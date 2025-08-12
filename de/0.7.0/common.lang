@@ -5,36 +5,36 @@
       "noItems": "No items matched your criteria",
       "endSession": "End Session",
       "none": "None",
-      "unknown": "Unknown",
-      "continue": "Continue",
-      "reset": "Reset",
-      "openInBrowser": "Open in browser",
-      "yes": "Yes",
-      "no": "No",
-      "errorOccured": "An error occured",
-      "back": "Back",
-      "next": "Next",
-      "previous": "Previous",
-      "agree": "Agree",
-      "cancel": "Cancel",
+      "unknown": "unbekannt",
+      "continue": "fortfahren",
+      "reset": "Neustart",
+      "openInBrowser": "Im Browser öffnen",
+      "yes": "Ja",
+      "no": "Nein",
+      "errorOccured": "Es ist ein Fehler aufgetreten",
+      "back": "Zurück",
+      "next": "Weiter",
+      "previous": "Vorher",
+      "agree": "Einverstanden",
+      "cancel": "Abbrechen",
       "test": "Test",
       "download": "Download",
-      "downloadDependencies": "Download dependencies",
-      "close": "Close",
-      "submit": "Submit",
+      "downloadDependencies": "Downloadvoraussetzungen",
+      "close": "schließen",
+      "submit": "einreichen",
       "Navigation": {
-        "webLegacy": "Web Sources (Legacy)"
+        "webLegacy": "Web Quellen (Legacy)"
       },
       "ok": "OK"
     },
     "Gender": {
-      "male": "Male",
-      "female": "Female",
-      "genderless": "Genderless"
+      "male": "männlich",
+      "female": "weiblich",
+      "genderless": "Kein Geschlecht"
     },
     "Pokerus": {
-      "infected": "Infected with Pokerus",
-      "no": "No"
+      "infected": "Infiziert mit Pokérus",
+      "no": "Neib"
     },
     "Effectiveness": {
       "prefix": "${type} → ${against} =",
@@ -44,23 +44,23 @@
       "super": "${Effectiveness.prefix} Super effective"
     },
     "ExtraData": {
-      "catchRate": "Catch Rate",
+      "catchRate": "Fangrate",
       "levelRate": "Exp Growth",
       "baseFriendship": "Base Friendship",
       "color": "Colour",
       "hatchTime": "Hatch Time",
-      "steps": "steps"
+      "steps": "schritte"
     },
     "color": {
-      "red": "Red",
-      "blue": "Blue",
-      "yellow": "Yellow",
-      "green": "Green",
-      "black": "Black",
-      "brown": "Brown",
-      "purple": "Purple",
-      "gray": "Gray",
-      "white": "White",
+      "red": "Rot",
+      "blue": "Blau",
+      "yellow": "Gelb",
+      "green": "Grün",
+      "black": "Schwarz",
+      "brown": "Braun",
+      "purple": "Lila",
+      "gray": "Grau",
+      "white": "Weiss",
       "pink": "Pink"
     },
     "ExpGrowth": [
